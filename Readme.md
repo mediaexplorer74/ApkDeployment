@@ -14,23 +14,23 @@ WConnect contolling via some GUI
 <table>
 
 <tr>
-<td> <img src="Images/shot1.png" alt="Drawing" style="width: 400px;"/> </td>
+<td> <img src="Images/shot1.png" alt="Drawing" style="width: 800px;"/> </td>
 </tr>
 
 <tr>
-<td> <img src="Images/shot2.png" alt="Drawing" style="width: 400px;"/> </td>
+<td> <img src="Images/shot2.png" alt="Drawing" style="width: 800px;"/> </td>
 </tr>
 
 <tr>
-<td> <img src="Images/shot3.png" alt="Drawing" style="width: 400px;"/> </td>
+<td> <img src="Images/shot3.png" alt="Drawing" style="width: 800px;"/> </td>
 </tr>
 
 <tr>
-<td> <img src="Images/shot4.png" alt="Drawing" style="width: 400px;"/> </td>
+<td> <img src="Images/shot4.png" alt="Drawing" style="width: 800px;"/> </td>
 </tr>
 
 <tr>
-<td> <img src="Images/shot5.png" alt="Drawing" style="width: 400px;"/> </td>
+<td> <img src="Images/shot5.png" alt="Drawing" style="width: 800px;"/> </td>
 </tr>
 
 <tr>
