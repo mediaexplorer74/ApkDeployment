@@ -11,17 +11,32 @@ JetBrains DotPeek used.
 WConnect contolling via some GUI
 
 # Screenshots
-<table><tr>
-<td> <img src="Images/shot1.png" alt="Drawing" style="width: 160px;"/> </td>
-<td> <img src="Images/shot2.png" alt="Drawing" style="width: 160px;"/> </td>
-<td> <img src="Images/shot3.png" alt="Drawing" style="width: 160px;"/> </td>
-</tr></table>
+<table>
 
-<table><tr>
-<td> <img src="Images/shot4.png" alt="Drawing" style="width: 160px;"/> </td>
-<td> <img src="Images/shot5.png" alt="Drawing" style="width: 160px;"/> </td>
-<td> <img src="Images/shot6.png" alt="Drawing" style="width: 160px;"/> </td>
-</tr></table>
+<tr>
+<td> <img src="Images/shot1.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+
+<tr>
+<td> <img src="Images/shot2.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+
+<tr>
+<td> <img src="Images/shot3.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+
+<tr>
+<td> <img src="Images/shot4.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+
+<tr>
+<td> <img src="Images/shot5.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+
+<tr>
+<td> <img src="Images/shot6.png" alt="Drawing" style="width: 400px;"/> </td>
+</tr>
+</table>
 
 ## My 2 cents
 - Decomp. code quickly fixed.
